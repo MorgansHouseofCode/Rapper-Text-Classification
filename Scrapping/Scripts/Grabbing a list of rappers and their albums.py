@@ -13,7 +13,7 @@ import pandas as pd
 import os 
 from  ScrapeAlbums import Genius
 import time
-client_access_token = 'Q7NnC4KbHPahFtUvtxgy2AcySVEvNyqGeNVEXoCq9oTsRjZkpcbwJmtIAGVQikgq' # Need This
+client_access_token = #Its a secret
 api = Genius(client_access_token) # Need this 
 # =============================================================================
 
